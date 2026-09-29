@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zawlinnaing700-oss.github.io/sitemap.xml
